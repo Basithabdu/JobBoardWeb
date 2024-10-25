@@ -1,0 +1,114 @@
+
+.top{
+  background-color: black;
+}
+.post-job{
+  border-radius: 30px;
+  background-color: blue;
+  color: white;
+}
+
+.btn{
+  border-radius: 30px;
+}
+
+.c-color{
+  color: rgb(21, 182, 21);
+}
+
+.input-group{
+  border-radius: 30px;
+}
+
+.owl-carousel .card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.owl-carousel .card h4 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+.success{
+  background-color: blue;
+  border-radius: 30px;
+  color: white;
+  border: none;
+}
+
+.input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating){
+  border-radius: 30px;
+}
+
+.system-image{
+  border-radius: 20px;
+}
+
+.post-free{
+  border: none;
+  border-radius: 30px;
+  color: white;
+  background-color: blue;
+}
+.upload-cv{
+  border: none;
+  border-radius: 30px;
+  color: white;
+  background-color: blue;
+}
+
+.system1{
+  border-radius: 20px;
+}
+
+.system2{
+  border-radius: 20px;
+}
+.develop{
+  border-radius: 50px;
+}
+.GPS{
+  border-radius: 50px;
+}
+.paint{
+  border-radius: 50px;
+}
+.headset{
+  border-radius: 50px;
+}
+
+/* latest section*/
+.develop{
+  color: green;
+}
+
+.san{
+  border: none;
+  border-radius: 30px;
+  color: green;
+  background-color: rgb(209, 249, 249);
+}
+.doller{
+  border: none;
+  border-radius: 30px;
+  color: green;
+  background-color: rgb(209, 249, 249);
+}
+.remote{
+  background-color: rgb(219, 190, 246);
+  border: none;
+  border-radius: 30px;
+}
+
+@media (max-width: 768px) {
+  .san {
+    width: 100%;
+  }
+  .doller{
+    width: 100%;
+  }
+  .remote{
+    width: 100%;
+  }
+}
